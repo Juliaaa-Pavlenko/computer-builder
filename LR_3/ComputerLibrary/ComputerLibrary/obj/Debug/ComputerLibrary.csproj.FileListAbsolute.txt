@@ -1,0 +1,6 @@
+C:\Users\Dell 5430\OneDrive\Рабочий стол\uni 2\c#\LR_3\ComputerLibrary\ComputerLibrary\bin\Debug\ComputerLibrary.dll
+C:\Users\Dell 5430\OneDrive\Рабочий стол\uni 2\c#\LR_3\ComputerLibrary\ComputerLibrary\bin\Debug\ComputerLibrary.pdb
+C:\Users\Dell 5430\OneDrive\Рабочий стол\uni 2\c#\LR_3\ComputerLibrary\ComputerLibrary\obj\Debug\ComputerLibrary.csproj.AssemblyReference.cache
+C:\Users\Dell 5430\OneDrive\Рабочий стол\uni 2\c#\LR_3\ComputerLibrary\ComputerLibrary\obj\Debug\ComputerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5430\OneDrive\Рабочий стол\uni 2\c#\LR_3\ComputerLibrary\ComputerLibrary\obj\Debug\ComputerLibrary.dll
+C:\Users\Dell 5430\OneDrive\Рабочий стол\uni 2\c#\LR_3\ComputerLibrary\ComputerLibrary\obj\Debug\ComputerLibrary.pdb
